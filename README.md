@@ -1,4 +1,5 @@
-Global-CO2-Emissions-Analysis-Dashboard
+# Global-CO2-Emissions-Analysis-Dashboard
+### Power BI: https://app.powerbi.com/groups/me/reports/e7b2d5fc-a2d4-4fbd-9f22-e016b0e90a6d?ctid=d7270324-ea10-47a1-ae5f-74dba073f8fd&pbi_source=linkShare
 
 [ -Project Overview- ]
 This Power BI project provides an in-depth visual exploration of the relationship between a global country's GDP and CO2 emissions. There is a particular emphasis on examining the correlation between high GDP nations and those with high CO2 emissions. With this visualization tool, users can get an intuitive view of the CO2 emission scenario across different countries, regions, and the world during specific time frames.
